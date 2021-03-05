@@ -1,6 +1,5 @@
 # Executive Summary
-
-[intro](./05_presentation_media/intro_pic.png)
+![Intro](./05_presentation_media/intro_pic.png)
 
 ## PROBLEM STATEMENT
 
