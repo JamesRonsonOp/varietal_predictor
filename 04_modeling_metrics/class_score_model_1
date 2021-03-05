@@ -1,0 +1,9 @@
+,Classifier,Score
+1,Random Forest Classifier Training:,100.0
+5,Random Forest Classifier Test:,52.8
+3,Multinomial N B Training:,61.4
+7,Multinomial N B Test:,54.2
+0,Logistic Regression Training:,77.9
+4,Logistic Regression Test:,56.6
+2,K Neighbors Classifier Training:,46.2
+6,K Neighbors Classifier Test:,32.8

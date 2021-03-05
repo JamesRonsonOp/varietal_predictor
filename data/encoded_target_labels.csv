@@ -1,0 +1,22 @@
+target_label,encoded_labels
+Albarino,0
+Cabernet Sauvignon,1
+Chardonnay,2
+Chenin Blanc,3
+Garganega,4
+Gewurztraminer,5
+Glera,6
+Grenache,7
+Gruner Veltliner,8
+Malbec,9
+Merlot,10
+Nebbiolo,11
+Pinot Grigio,12
+Pinot Noir,13
+Riesling,14
+Sangiovese,15
+Sauvignon Blanc,16
+Syrah,17
+Tempranillo,18
+Viognier,19
+Zinfandel,20
